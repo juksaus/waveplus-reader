@@ -37,8 +37,8 @@ The following tables shows a compact overview of dependencies for this project.
 
 | package | version | Comments |
 |-------------|-------------|-------------|
-| python         | 2.7 | Tested with python 2.7.13
-| python-pip     |     | pip for python2.7
+| python         | 3.7 | Tested with python 3.7.3
+| python-pip     |     | pip for python3.7
 | git            |     | To download this project
 | libglib2.0-dev |     | For bluepy module
 
@@ -47,7 +47,7 @@ The following tables shows a compact overview of dependencies for this project.
 | module | version | Comments |
 |-------------|-------------|-------------|
 | bluepy      | 1.2.0 | Newer versions have not been tested.
-| tableprint  | 0.8.0 | Newer versions have not been tested.
+| paho-mqtt   | 1.5.1 | Newer versions have not been tested.
 
 ## Setup Raspberry Pi
 
